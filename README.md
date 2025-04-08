@@ -1,3 +1,3 @@
 # classTest
 
-# Max was here
+# max was here
